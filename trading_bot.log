@@ -11,3 +11,9 @@
 2026-02-20 23:13:10,011 -INFO -{'orderId': 12421515175, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.002', 'price': '0.00', 'executedQty': '0.000', 'avgPrice': '0.00', 'status': 'NEW'}
 2026-02-20 23:13:10,541 -INFO -Limit Order Details
 2026-02-20 23:13:10,541 -INFO -{'orderId': 12421515353, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': '0.002', 'price': '70000.00', 'executedQty': '0.000', 'avgPrice': '0.00', 'status': 'NEW'}
+2026-02-21 00:04:20,534 -INFO -Market Order Details
+2026-02-21 00:04:20,534 -INFO -{'orderId': 12422404821, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.002', 'price': '0.00', 'executedQty': '0.000', 'avgPrice': '0.00', 'status': 'NEW'}
+2026-02-21 00:04:20,808 -INFO -Limit Order Details
+2026-02-21 00:04:20,808 -INFO -{'orderId': 12422404955, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': '0.002', 'price': '70000.00', 'executedQty': '0.000', 'avgPrice': '0.00', 'status': 'NEW'}
+2026-02-21 00:04:51,116 -INFO -Limit Order Details
+2026-02-21 00:04:51,117 -INFO -{'orderId': 12422413946, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': '2.000', 'price': '3000.00', 'executedQty': '0.000', 'avgPrice': '0.00', 'status': 'NEW'}
